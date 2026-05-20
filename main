@@ -11,6 +11,7 @@ local scripts = {
     [121731448247552] = "https://raw.githubusercontent.com/Fafarove/dungeonhunter/refs/heads/main/loader.lua",
     [88207898227053] = "https://raw.githubusercontent.com/Fafarove/dupebridge/refs/heads/main/drupbri.lua",
     [89469502395769] = "https://raw.githubusercontent.com/Fafarove/kalb/refs/heads/main/kalb.lua",
+    [98033586806203] = "https://raw.githubusercontent.com/Fafarove/hvb/refs/heads/main/obfus.lua",
 }
  
 local url = scripts[placeId]
