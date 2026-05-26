@@ -16,6 +16,7 @@ local scripts = {
     [74951754415707] = "https://raw.githubusercontent.com/Fafarove/erfl/refs/heads/main/erfl.lua",
     [114115486822297] = "https://raw.githubusercontent.com/Fafarove/dkals/refs/heads/main/loader.lua",
     [105633123928294] = "https://raw.githubusercontent.com/Fafarove/isbrh/refs/heads/main/lo.lua",
+    [109422846863419] = "https://raw.githubusercontent.com/Fafarove/lsbr/refs/heads/main/lsbr.lua",
 }
  
 local url = scripts[placeId]
