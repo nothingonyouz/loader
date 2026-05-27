@@ -22,6 +22,9 @@ local scripts = {
     [105215477731035] = "https://raw.githubusercontent.com/nothingonyouz/pole/refs/heads/main/pole.lua",
     [137069154816703] = "https://raw.githubusercontent.com/nothingonyouz/hackvfb/refs/heads/main/hackvfb.lua",
     [122889506854558] = "https://raw.githubusercontent.com/nothingonyouz/fsb/refs/heads/main/Fsb.lua",
+    [114204398207377] = "https://raw.githubusercontent.com/nothingonyouz/szr/refs/heads/main/szr.lua",
+    [98927955463992] = "https://raw.githubusercontent.com/nothingonyouz/szr/refs/heads/main/szr.lua",
+    [114204398207377] = "https://raw.githubusercontent.com/nothingonyouz/szr/refs/heads/main/szr.lua",
 }
  
 local url = scripts[placeId]
