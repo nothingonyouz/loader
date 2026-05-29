@@ -13,6 +13,7 @@ local scripts = {
     [89469502395769] = "https://raw.githubusercontent.com/nothingonyouz/kalb/refs/heads/main/kalb.lua",
     [98033586806203] = "https://raw.githubusercontent.com/nothingonyouz/hvb/refs/heads/main/obfus.lua",
     [13772394625] = "https://raw.githubusercontent.com/nothingonyouz/bb/refs/heads/main/bb.lua",
+    [4777817887] = "https://raw.githubusercontent.com/nothingonyouz/bb/refs/heads/main/bb.lua",
     [74951754415707] = "https://raw.githubusercontent.com/nothingonyouz/erfl/refs/heads/main/erfl.lua",
     [114115486822297] = "https://raw.githubusercontent.com/nothingonyouz/dkals/refs/heads/main/loader.lua",
     [105633123928294] = "https://raw.githubusercontent.com/nothingonyouz/isbrh/refs/heads/main/lo.lua",
