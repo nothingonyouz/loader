@@ -28,6 +28,7 @@ local scripts = {
     [114204398207377] = "https://raw.githubusercontent.com/nothingonyouz/szr/refs/heads/main/szr.lua",
     [75888315541325] = "https://raw.githubusercontent.com/nothingonyouz/push/refs/heads/main/push.lua",
     [90247694815078] = "https://raw.githubusercontent.com/nothingonyouz/fightalkbbr/refs/heads/main/main.lua",
+    [120564326011184] = "https://raw.githubusercontent.com/nothingonyouz/beyout/refs/heads/main/beyout.lua",
 }
  
 local url = scripts[placeId]
