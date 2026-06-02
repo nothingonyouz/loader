@@ -32,6 +32,7 @@ local scripts = {
     [107646426076756] = "https://raw.githubusercontent.com/nothingonyouz/dupebuildr/refs/heads/main/db.lua",
     [92416421522960] = "https://raw.githubusercontent.com/nothingonyouz/slime/refs/heads/main/slime.lua",
     [142823291] = "https://raw.githubusercontent.com/nothingonyouz/m22/refs/heads/main/m22.lua",
+    [88518003689791] = "https://raw.githubusercontent.com/nothingonyouz/BQIT/refs/heads/main/BQ.LUA",
 }
  
 local url = scripts[placeId]
