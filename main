@@ -33,6 +33,7 @@ local scripts = {
     [92416421522960] = "https://raw.githubusercontent.com/nothingonyouz/slime/refs/heads/main/slime.lua",
     [142823291] = "https://raw.githubusercontent.com/nothingonyouz/m22/refs/heads/main/m22.lua",
     [88518003689791] = "https://raw.githubusercontent.com/nothingonyouz/BQIT/refs/heads/main/BQ.LUA",
+    [79268393072444] = "https://raw.githubusercontent.com/nothingonyouz/slemon/refs/heads/main/slemon.lua",
 }
  
 local url = scripts[placeId]
